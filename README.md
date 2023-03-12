@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## About me
+# About me
 - 👨🏻‍💻 Front-end developer in the making
 - 📚 Lifelong learner
 - 💽 Electronics engineer
@@ -18,7 +18,7 @@
 - 📫 Reach me at nachofmoran@gmail.com
 
 
-## Portfolio
+# Portfolio
 * [Some front-end stuff](https://nachofmoran.netlify.app/)
 * [Some 3D stuff](https://www.behance.net/nachofmoran)
 
